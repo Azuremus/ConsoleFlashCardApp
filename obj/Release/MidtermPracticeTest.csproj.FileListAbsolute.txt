@@ -1,0 +1,16 @@
+E:\MidtermPracticeTest\bin\Release\MidtermPracticeTest.exe.config
+E:\MidtermPracticeTest\bin\Release\MidtermPracticeTest.exe
+E:\MidtermPracticeTest\bin\Release\MidtermPracticeTest.pdb
+E:\MidtermPracticeTest\obj\Release\MidtermPracticeTest.csproj.AssemblyReference.cache
+E:\MidtermPracticeTest\obj\Release\MidtermPracticeTest.csproj.SuggestedBindingRedirects.cache
+E:\MidtermPracticeTest\obj\Release\MidtermPracticeTest.csproj.CoreCompileInputs.cache
+E:\MidtermPracticeTest\obj\Release\MidtermPracticeTest.exe
+E:\MidtermPracticeTest\obj\Release\MidtermPracticeTest.pdb
+C:\devl\MidtermPracticeTest\bin\Release\MidtermPracticeTest.exe.config
+C:\devl\MidtermPracticeTest\bin\Release\MidtermPracticeTest.exe
+C:\devl\MidtermPracticeTest\bin\Release\MidtermPracticeTest.pdb
+C:\devl\MidtermPracticeTest\obj\Release\MidtermPracticeTest.csproj.AssemblyReference.cache
+C:\devl\MidtermPracticeTest\obj\Release\MidtermPracticeTest.csproj.SuggestedBindingRedirects.cache
+C:\devl\MidtermPracticeTest\obj\Release\MidtermPracticeTest.csproj.CoreCompileInputs.cache
+C:\devl\MidtermPracticeTest\obj\Release\MidtermPracticeTest.exe
+C:\devl\MidtermPracticeTest\obj\Release\MidtermPracticeTest.pdb
